@@ -63,22 +63,22 @@ Dynamic XML]
 ## Vista General
 
 ### Home
-<img src="./docs/screenshots/home.png" width="900" />
+<img src="./doc/screenshots/home.png" width="900" />
 
 ### Dashboard
-<img src="./docs/screenshots/dashboard.png" width="900" />
+<img src="./doc/screenshots/dashboard.png" width="900" />
 
 ### Propiedades
-<img src="./docs/screenshots/properties.png" width="900" />
+<img src="./doc/screenshots/properties.png" width="900" />
 
 ### ➕ Crear Propiedad
-<img src="./docs/screenshots/create-property.png" width="900" />
+<img src="./doc/screenshots/create-property.png" width="900" />
 
 ### Usuarios
-<img src="./docs/screenshots/users.png" width="900" />
+<img src="./doc/screenshots/users.png" width="900" />
 
 ### ➕ Crear Usuario
-<img src="./docs/screenshots/create-user.png" width="900" />
+<img src="./doc/screenshots/create-user.png" width="900" />
 ---
 
 # ⭐ 3. Core Capabilities (Production Ready)
