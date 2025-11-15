@@ -1,0 +1,24 @@
+{
+    "collection": "Users",
+    "requests": [
+      {
+        "name": "Get Profile",
+        "method": "GET",
+        "url": "http://localhost:5001/api/users/me",
+        "headers": {
+          "Authorization": "Bearer {{token}}"
+        }
+      },
+      {
+        "name": "Update Profile",
+        "method": "PUT",
+        "url": "http://localhost:5001/api/users/me",
+        "headers": {
+          "Authorization": "Bearer {{token}}"
+        },
+        "body": {
+          "name": "Updated Name"
+        }
+      }
+    ]
+  }

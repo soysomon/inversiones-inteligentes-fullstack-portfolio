@@ -1,0 +1,32 @@
+{
+    "collection": "Properties",
+    "requests": [
+      {
+        "name": "List Public Properties",
+        "method": "GET",
+        "url": "http://localhost:5001/api/properties"
+      },
+      {
+        "name": "Get Property by Slug",
+        "method": "GET",
+        "url": "http://localhost:5001/api/properties/slug/sample-property"
+      },
+      {
+        "name": "Create Property",
+        "method": "POST",
+        "url": "http://localhost:5001/api/properties",
+        "headers": {
+          "Authorization": "Bearer {{token}}",
+          "Content-Type": "application/json"
+        },
+        "body": {
+          "title": "Sample Property",
+          "price": { "amount": 100000, "currency": "DOP" },
+          "address": {
+            "address": "Calle Principal",
+            "city": "Santo Domingo"
+          }
+        }
+      }
+    ]
+  }
