@@ -2,9 +2,9 @@
 
 > ⚠️ **Note**  
 > This repository includes the *full production frontend* and a **safe public backend demo**.  
-> The real production backend is private (security reasons), but this demo backend contains  
-> the exact architecture, patterns, conventions and structure used in production —  
-> enough for recruiters to evaluate my full-stack capabilities.
+> The full production backend remains private for security reasons.  
+> If any recruiter or technical lead requires a deeper review for evaluation purposes,  
+> feel free to contact me — I can provide a secure private walkthrough of the real system.
 > 
 <div align="left">
   <img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" />
